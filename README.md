@@ -30,6 +30,10 @@ A Simple wallet system made using PHP and MYSQL with frontend on HTML and CSS.
           
           Happy Coding!
           
-          Contact:sauravsingh3020@gmail.com for any queiries.
-          
-          
+          Contact:sauravsingh3020@gmail.com for any queries!
+          ![Screenshot (73)](https://user-images.githubusercontent.com/92258284/158638785-ec4c5b94-0eb6-4d6b-9d38-fb63b8a884bd.png)
+          ![Screenshot (74)](https://user-images.githubusercontent.com/92258284/158638908-99729a72-dae8-4d3f-bca2-3e784f2e6154.png)
+          ![Screenshot (75)](https://user-images.githubusercontent.com/92258284/158639065-9822b5d9-c935-4351-b23f-e15cd5ac8f7b.png)
+          ![Screenshot (76)](https://user-images.githubusercontent.com/92258284/158639198-8193593f-ac2f-4b19-a022-db1edb4219c5.png)
+
+
